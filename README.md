@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Furkan KEKÜL 👋</h1>
+<h1 align="center">Furkan KEKÜL</h1>
  
 <p align="center">
-  <b>Computer Engineer · Backend Developer · DevOps Enthusiast</b>
+  <b>Computer Engineer | Focused on Backend and DevOps</b>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/furkan-kekul/">
@@ -10,18 +10,13 @@
   <a href="mailto:kekulfurkan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/furkankekul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
----
  
 ## 🙋‍♂️ About Me
  
 Computer Engineer with hands-on experience delivering sustainable and scalable software solutions, taking ownership of application deployment and observability throughout the software development lifecycle.
  
- 
----
+ <hr></hr>
  
 ## 🎓 Education
  
@@ -81,8 +76,8 @@ I worked as a backend and DevOps-focused software developer in a suite of soluti
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  
 </div>
----
- 
+
+<hr></hr> 
  
 ## 📊 GitHub Stats
  
@@ -93,7 +88,8 @@ I worked as a backend and DevOps-focused software developer in a suite of soluti
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=furkankekul&theme=tokyonight&hide_border=true" />
 </p>
----
+
+<hr></hr>
  
 <p align="center">
   <i>"Sustainable software starts with good design."</i>
