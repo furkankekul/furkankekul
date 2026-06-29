@@ -10,4 +10,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+---
+Computer Engineer with hands-on experience delivering sustainable and scalable software solutions, taking ownership of application deployment and observability throughout the software development lifecycle.
 
