@@ -11,5 +11,5 @@
   </a>
 </p>
 ---
-Computer Engineer with hands-on experience delivering sustainable and scalable software solutions, taking ownership of application deployment and observability throughout the software development lifecycle.
+<p>Computer Engineer with hands-on experience delivering sustainable and scalable software solutions, taking ownership of application deployment and observability throughout the software development lifecycle.</p>
 
