@@ -37,6 +37,7 @@ I worked as a backend and DevOps-focused software developer in a suite of soluti
 ## 🛠️ Tech Stack
  
 <div align="center">
+ 
 **Backend Development**
  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
