@@ -80,17 +80,16 @@ I worked as a backend and DevOps-focused software developer in a suite of soluti
 <hr></hr> 
  
 ## 📊 GitHub Stats
- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkankekul&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankekul&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=furkankekul&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=furkankekul&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr></hr>
- 
+
 <p align="center">
   <i>"Sustainable software starts with good design."</i>
 </p>
