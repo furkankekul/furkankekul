@@ -22,7 +22,7 @@ Computer Engineer with hands-on experience delivering sustainable and scalable s
  
 | Degree | School | Date | GPA |
 |--------|--------|------|-----|
-| B.Sc. Computer Engineering | Sivas Cumhuriyet University | Sep 2021 – Jun 2025 | 3.21 / 4.0 (Honor Student) |
+| B.Sc. Computer Engineering | Sivas Cumhuriyet University | Sep 2021 – Jun 2025 | 3.21 / 4.0 (Graduated with Honors) |
  
 ---
  
